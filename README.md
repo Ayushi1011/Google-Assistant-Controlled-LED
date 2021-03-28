@@ -1,3 +1,3 @@
 # Google-Assistant-Controlled-LED
 
-![](iot.jpg)
+![](picture.jpg)
